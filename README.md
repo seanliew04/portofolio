@@ -1,4 +1,34 @@
+# SEGI Portfolio Website
 
+This is a personal portfolio website project built for SEGI College students. It showcases individual student profiles, skills, projects, and includes a contact form with database and email functionality.
+
+---
+
+## 📁 Project Structure
+
+/portofolio
+│
+├── index.html # Ooi Jian Hen's homepage
+├── about.html # About Me (Ooi Jian Hen)
+├── skills.html # Skills & Projects (Ooi Jian Hen)
+├── contact.php # Contact form with database + email
+│
+├── liew.html # Liew Zhi Xian's homepage
+├── about-liew.html # About Me (Liew)
+├── skills-liew.html # Skills & Projects (Liew)
+├── contact-liew.php # Contact form for Liew
+│
+├── students.html # Landing page to choose which student profile to view
+│
+├── style.css # Shared styling
+├── men.jpg / men2.jpg # Profile images
+│
+├── /phpmailer # PHPMailer library files
+│ ├── PHPMailer.php
+│ ├── SMTP.php
+│ └── Exception.php
+│
+└── README.md
 ---
 
 ## ⚙️ Features
